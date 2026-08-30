@@ -12,12 +12,16 @@ El código fuente está dividido en paquetes individuales para asegurar su aisla
 * **Ejercicio4:** Imprime los números del 1 al 100 usando un ciclo `for`.
 * **Ejercicio5:** Identifica los números del 1 al 100 que son divisibles entre 2 y 3.
 
-### 🚀 Ejecutables
+### Ejecutables
 Para facilitar la revisión, los archivos ejecutables (`.jar`) de cada ejercicio están compilados y listos para descargar en la sección de **[Releases](../../releases)** de este repositorio.
 
-### 🛠️ Cómo ejecutar
+### Cómo ejecutar
 1. Asegúrese de tener Java (JRE/JDK) instalado en su sistema.
 2. Descargue el archivo `.jar` que desea probar desde la sección de Releases.
 3. Abra una terminal en la ruta de descarga y ejecute el siguiente comando:
    ```bash
    java -jar NombreDelArchivo.jar
+   **Ej.**
+   ```bash
+   java -jar Ejercicio1.java
+

@@ -1,7 +1,7 @@
 package Ejercicio1;
 import javax.swing.JOptionPane;
 
-public class Ejercicio {
+public class Ejercicio1 {
     public static void main(String[] args) {
         boolean valid = false;
         int numero = 0;
