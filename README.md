@@ -19,9 +19,11 @@ Para facilitar la revisión, los archivos ejecutables (`.jar`) de cada ejercicio
 1. Asegúrese de tener Java (JRE/JDK) instalado en su sistema.
 2. Descargue el archivo `.jar` que desea probar desde la sección de Releases.
 3. Abra una terminal en la ruta de descarga y ejecute el siguiente comando:
-   ```bash
-   java -jar NombreDelArchivo.jar
-   **Ej.**
-   ```bash
-   java -jar Ejercicio1.java
+```bash
+java -jar NombreDelArchivo.jar
+```
+**Ej.**
+```bash
+java -jar Ejercicio1.jar
+```
 
