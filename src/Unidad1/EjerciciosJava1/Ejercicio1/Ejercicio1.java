@@ -1,4 +1,4 @@
-package EjerciciosJava1.Ejercicio1;
+package Unidad1.EjerciciosJava1.Ejercicio1;
 import javax.swing.JOptionPane;
 
 public class Ejercicio1 {

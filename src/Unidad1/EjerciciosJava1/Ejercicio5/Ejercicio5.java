@@ -1,4 +1,4 @@
-package EjerciciosJava1.Ejercicio5;
+package Unidad1.EjerciciosJava1.Ejercicio5;
 
 public class Ejercicio5 {
     public static void main(String[] args) {
